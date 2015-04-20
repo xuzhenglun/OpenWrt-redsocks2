@@ -29,7 +29,7 @@ This variant is useful for anti-GFW (Great Fire Wall).
 endef
 
 define Package/Redsocks2/conffile
-/etc/redsocks2
+/etc/redsocks2.conf.example
 endef
 
 define Package/Redsock2/install
